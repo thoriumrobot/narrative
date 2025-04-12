@@ -4,10 +4,21 @@ from langchain_ollama import OllamaLLM
 # 1. Placeholder lists for Alice (Wound) and Botanical (Medicine) readings
 # Fill these with your actual 90 Wound readings and 66 Medicine readings.
 alice_readings = [
+    "All in the Golden Afternoon. Time to create. An imaginative idea. Inspiration takes hold. Talent and ability. The muse touches down in your life - get ready!",
+    "All in the Golden Afternoon Reversed. Feeling Dull, uninspired, mundane. Believing you lack creativity. Dissatisfaction with your work. Negative self-talk.",
+    "I Wonder What Will Happen Next? A longing for excitement. Wonder at what is meant to take place next. Someone who is comfortable but vaguely dissatisfied. Be ready for a challenge and new experiences.",
+    "I Wonder What Will Happen Next? Reversed. Attachment to habit. Locked into stultifying sameness. Comfort over adventure. A lack of curiosity. Satisfaction remaining within the same world, in a repetitive cycle.",
+    "Follow the White Rabbit. A wondrous opportunity is going to break through your ordinary reality and give you the chance to change your world and your perception, forever.",
+    "Follow the White Rabbit Reversed. Opportunity after opportunity, chance after chance to have adventures, but not feeling ready. Thinking you must think on it, take more timeor even that the opportunity will come by again. Hesitation is costing you a omre exciting, dynamic and enchanted life.",
     "Alice Wound Reading 1: ...",
     "Alice Wound Reading 2: ...",
     "Alice Wound Reading 3: ...",
-    # ...
+    "Alice Wound Reading 1: ...",
+    "Alice Wound Reading 2: ...",
+    "Alice Wound Reading 3: ...",
+    "Alice Wound Reading 1: ...",
+    "Alice Wound Reading 2: ...",
+    "Alice Wound Reading 3: ...",
     "Alice Wound Reading 90: ..."
 ]
 
@@ -74,6 +85,8 @@ def generate_interpersonal_events(character1, character2):
     # Construct the prompt
     prompt = f"""
 Objective: Generate three interpersonal events that advance the narrative.
+
+Character traits format: For each of the 8 effects of trauma, the nature of the wound and the "medicine", i.e. the character arc that would serve as treatment, are indicated.
 
 Character 1:
 {char1_str}
