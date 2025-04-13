@@ -1,6 +1,6 @@
 First time:
 
-https://github.com/thoriumrobot/narrative
+git clone https://github.com/thoriumrobot/narrative
 curl -fsSL https://ollama.com/install.sh | sh
 
 Every time:
