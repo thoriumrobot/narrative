@@ -86,28 +86,74 @@ alice_readings = [
     "Forget Who You Are Reversed. Believing everything you have been told you are. Defining self through labels, cultural programming, rules and laws. Missing out on beautiful, heart-opening opportunities to connect due to conformity and rigid beliefs.",
     "Mortality. Appreciation of existence. Relishing being alive. Making the most of every moment. Accepting mortality in ourselves and in others. Living in the present. Feeling joy at being alive.",
     "Mortality Reversed. The belief that this life has less value than other possible lives. Vesting time, procrastinating or stagnating. Waiting for a 'heaven.' Believing life is more a curse than a blessing... a burden to be carried. Refusing to believe in your own mortality. Denial of deaths presence within life. Living as though life is forever.",
-    "Manage to Be Glad. ",
-    "Manage to Be Glad Reversed. ",
-    "Alice Wound Reading 2: ...",
-    "Alice Wound Reading 90: ..."
+    "Manage to Be Glad. Tour happiness is in your own hands 一 it is something, which can be managed, nurtured and grown. Acknowledgement that life can be very difficult and challenging, but you are being asked to grow the happiness you long for, out of your magickal will and desire to feel joy once again.",
+    "Manage to Be Glad Reversed. A belief that happiness is easier for others who seem more fortunate and have been given blessings you have missed out on. Believing that happiness is an act of fate rather than a disciplined way of thinking and behaving. Feeling happiness is out of reach. Focusing on the sadness, rather than the bliss that can be created.",
+    "You Can't Go Back to Yesterday. You are more than your past. You have evolved and changed. Sharing your history is only to share who you once were. You are no longer the same person.",
+    "You Can't Go Back to Yesterday Reversed. Living in the past. Speaking of past events. Musing over what once was. Nostalgia. Believing you are the same as you once were. Living through stories rather than experiences. Memory overrides the present. No anticipation of the future.",
+    "Such a Curious Dream. A time when work must be done. Eat well and prepare good meals. Make magick in your everyday activities and ordinary moments. A return from an extraordinary experience, adventure, travel or holiday. When the time is right, you will encounter Wonderland once again.",
+    "Such a Curious Dream Reversed. Venting to hold on to an experience and not return to the everyday. Wishing to live in Wdnderland rather than experiencing it and bringing its magick into your everyday world. Becoming ungrounded and disconnected. Feeling drawn to fantasy. Being susceptible to illusions."
 ]
 
 botanical_readings = [
+    "Angel's Trumpet. What message are you not hearing that is urging you to transform? Look at the devils holding their ears as they cannot stand her holy sound. What devils or attachments do you need to cast out from your life, allowing you to evolve? Look to the graveyard. To what are you dying, and to what are you being reborn? Let go and trust the process as you really have no choice. How can the ancestors help you? Who in your lineage is willing to help you speak your trth or offer a message to you?",
+    "Angel's Trumpet Reversed. Resisting the message. We are not ready to let go and need more time. Do not avoid the messages you are receiving about change. Embrace them to prepare yourself for the coming change. Cast out that which no longer serves and embrace your own spiritual beauty.",
+    "Belladonna. A gateway opens into a new realm, a new breakthough, though she also acts as guardian of the gateway, asking if you are truly ready to step through to the other side and leave what attachments no longer serve, cutting their cords. Each step towards her, towards the gate, is a deepening of your commitment to your spirit. She holds the sickle in one hand and the forked stang in the other. She is attended by two angels of death, one on each side, holding her foliage over the gateway. The branches of Belladonna are a crooked path, and each flower embodies the enchantment of the stars in the darkness.",
+    "Belladonna Reversed. What spell are you under? What has enchanted you or distracted you? What might be toxic to you, but you haven't realized it yet? What messages from the spirit world are right there, but being ignored by you?",
+    "Bleeding Heart. Reflect on unhealed wounds. Where do you hold on to grief or pain? What unhealthy attachments bind you? What needs to be released to move on with your life? Notice how that plant spirit turns her back, turning away from the past to let it go. Bleeding Heart tells you to seek catharsis, often through tears, as the drop is also evocative of tears cleansing the heart. Don't be afraid to cry to heal. Each of the heart-shaped flowers needs to crack and split open to bloom, to release the teardrop in order to heal.",
+    "Bleeding Heart Reversed. You are stubbornly refusing to release unhealthy attachments and old wounds. You have build identities around your wounded self and fear who or what you will be if you let them go. You are holding back tears and pretending things are good when they are not. Be honest with yourself.",
+    "Calla Lily. A balance of desire and spiritual attainment is found. It can indicate a time of personal empowerment, or a relationship going well on all levels, indicating a match physically and spiritually. You might find yourself taking on the qualities of enchantment with a partner, or in turn, being enchanted y another. Things are pleasurable, peaceful and connected.",
+    "Calla Lily Reversed. Something is ending, and you are not at peace. You need to learn how to transition to make the necessary change without a lot of drama. Accept what is ending, and grieve, but allow something new to rise. Difficulty or conflict in relationships, where one aspect of the relationship, spiritual or physical, is being nurtured, while the other is not. It is time to seek balance.",
+    "Camellia. Appreciate what you have-your home, belongings, health and happiness. Gratitude for what you have and a reminder that gratitude combined with humility is the key to going forward. The flower spirit is enveloped in the luxury of her petals. Enjoy the world and your life. Enjoy your family and friends. Listen to your intuition from a place of beauty and security. Do not fear scarcity.",
+    "Camellia Reversed. A need to self-soothe and self-comfort or accept the comfort offered to you. Settle yourself and see things from a clearer perspective. If you are feeling confused or unsafe, calmly evaluate what you can do to get into a better situation and do it.",
+    "Cannabis. Be aware. Be sensitive. Connect and commune. Feel connected and play. Now is a time for letting down rigid differences and enjoying the world. Find your bliss in simple everyday things, and be aware of the vast levels of life all around you, seen and unseen, physical and spiritual.",
+    "Cannabis Reversed. Feeling lost or adrift and needing some structure to balance an excess of dissolution. Find our own center amidst the streams of life and establish our sense of self without slipping into fear.",
+    "Dandelion. A time and place for you to shine and play, and while doing so, be successful at what is at hand. This plant spirit can indicate success and good fortune in business and goals coming to fruition, all with a light-hearted and fun attitude for you. Enjoy your success and keep it going. Where is your eye drawn-root, leaf, flower, seed? The solar attributes are the most flower-like. The root helps you to get to the root of the matter and shows that you need grounding or purification. The leaf is cleansing and nutritive, indicating support. The flying seeds are of dreams and travel.",
+    "Dandelion Reversed. You are holding on to anger or poison and need to purge. What is preventing you from moving forward and shining? What toxicity are you holding onto internally, any why? Learn to release it.",
+    "Dragon Tree. You are called to draw forth your natural power and take action as necessary. Express your will. Take flight. It is time to be active and make things happen in inner or outer worlds, but you cannot remain idle. While the Dragon Tree can have an aggressive nature, you are not necessarily called to be aggressive, but confident and strong. The Dragon Tree tells you not to be passive, but to take an active role in shaping your life.",
+    "Dragon Tree Reversed. Your power is going inward. Is this your desire? If yes, then focus on your inner experience and inner changes. But if you are called to take action in your life, you are challenged to express that power outward to make beneficial changes.",
+    "Fly Agaric. An opportunity to make contact with a deeper level of awareness, catalyzing your creativity and healing. You must be willing to risk being perceived as foolish or crazy, and also take time to listen in order to learn. Reconnect with craftiness, speed and fertility, transformation or love and good fortune.",
+    "Fly Agaric Reversed. A gateway to the darker unconscious. While it can heal you deeply, it will not be easy. The healing will require you to face fears about yourself and the world, and you will need a willingness to let go of poisons that are familiar, but which will ultimately harm you.",
+    "Hellebore. We need time alone, to be unseen and unheard to reflect upon our life and path. The spirit is gazing off in her own direction, unconcerned about us, doing her own work. We might need to set boundaries more aggressively, as other could impede and pressure us to support their needs. When we are alone and unseen, we will bloom.",
+    "Hellebore Reversed. Not wanting to be alone or feeling alone in the darkness. Rather than choosing to be alone, the choice was made for us by others or circumstances beyond our control.",
+    "Hemlock. By paying attention to dreams or nightmares, you have an opportunity to get unstuck and move through anything that's stopping you. The inner voice and intuitive message create the key for you to bypass anything that keeps you stuck and get going on your evolution without delay. The noxious root stares directly at us, and we cannot avert our gaze. Face the situation head on.",
+    "Hemlock Reversed. Stuck in the current situation. You might feel that another had positioned you to be blocked, but we know that on some level, we have to take responsibility for the thoughts, feelings and actions that have gotten us into this paralysis. Seek answers in dreams and meditations, but be prepared to confront realities you would rather deny.",
+    "Henbane. You are called to see things differently, looking at the whole arc of the past, present and future in a complete picture. You might find yourself gaining access to reserves of deeper power, inspiration or insight. Aptitudes within you will be awakened.",
+    "Henbane Reversed. Blocked inspiration. You are missing a part of the picture and need a fuller scope to see clearly. Ask questions.",
+    "Holly. The Holly King looks coldly at you, attired in his winter regalia. You need protection from outside forces. Look for clues on how to approach your protection in a just and balanced manner.",
+    "Holly Reversed. You need protection from self-harm. How are you directing angry and aggressive feelings, and how are they hurting you?",
+    "Ivy. Reach up and out while rooted. How can you grow without losing your roots? What must you bind to protect you, or bring closer to unite with it? Possible indication of good luck and abundance while others around you are struggling.",
+    "Ivy Reversed. Are you feeling uprooted and ungrounded? Is it hard to go on? Find the roots to grow once again. Don't give up. Thrive. Develop the strength and resilience to to go on.",
+    "Lavender. Pause, calm and center ourselves for the task before us. Approach it with a clear mind and tranquil heart. We may feel we are working day and night, but use the cycles of work and rest to restore balance in your life.",
+    "Lavender Reversed. We may be acting too calm, too peaceful, not seeing things as they are, but as we want them to be. Get clarity to see the situation truly, and then approach the work calmly, but realistically.",
+    "Love Lies Bleeding. We are in the process of healing or supporting another in the healing process. We might be experiencing grief, pain or despair, but our isolation or pain is temporary as long as we continue onward in our process.",
+    "Love Lies Bleeding Reversed. We are rejecting the help and support offered to move through our suffering. Why are we in love with our suffering? How can we move on to the next situation, putting our suffering into perspective?",
+    "Mandrake. Seek mystery in hidden and dark places, embracing who we really are. Ask yourself how you are using your gifts. We have the power to bless, curse and offer protection.",
+    "Mandrake Reversed. We might be delirious and using our power irresponsibly.",
+    "Moonflower. Develop your creative power by breaking patterns and rhythms and finding your own way. You will attract allies if you follow your own way.",
+    "Moonflower Reversed. Make peace with the ephemeral. All life changes, dies and is reborn. Open your heart and take deep breaths to find peace. See the world clearly and enjoy pleasures while we have them. Tomorrow, they might not be there.",
+    "Oak. Oak indicates strength, protection or good fortune in the current undertaking. The situation looks good for success, and you will have the support to go forward. Within the branches of the oak is the cardinal, the bird of rejuvenation, hope and energy. Climbing the trunk is the squirrel, the animal of preparation and hard work. The Oak King stares at you directly, armored and ready to face any challenge head on.",
+    "Oak Reversed. Consider withdrawing from responsibilities or projects that are too much of a burden before you break. This is not a time to be inflexible, but to compromise and know your limits. Let someone else shoulder the burden for a time.",
+    "Poppy. Pay attention to your dreams to find your creative voice. Let go of assumptions about what you can and cannot do. Enter into your creative self, and return with treasures.",
+    "Poppy Reversed. Warning to rest and regenerate. We are nearing exhaustion if not already there. We need time out from expectations to simply be. Let go for a time to renew your sense of joy.",
+    "Rose. Seek love, beauty and harmony. As above, so below rises crowned in divine knowledge. Feel your heartbeat and sense creation spreading above, below and around it. Find beauty in yourself and in all creation. Look for opportunities for true, divine love in your present situation. You need to open yourself.",
+    "Rose Reversed. Where are you unbalanced and lacking harmony? Are you closed to love or blind to beauty? Even the most devastating prodigies are shaped in beauty. This does not diminish their pain or harm, but helps us move past them and take the right action. You might be speaking too much. Keep things sub-rosa.",
+    "Rue. We need protection and blessing even if things appear to be going well. Forces are working against us. Bring in more light and take precaution so no harm might befall us or our loved ones. Vervain represents protection blessings, healing, love and peace. The key of mysteries represents the gates we believe are locked to us. The waxing crescent Moon indicates slow and steady growth of good thinhg. The dagger represents protection and truth. The rooster head symbolizes vigilance and guardianship.",
+    "Rue Reversed. Our defenses and protections have failed. Redouble your efforts or ask for help.",
+    "Sorcerer's Violet. Reaching, striving and opening up while remaining grounded, centered and true to our past. Explore, but don't forget where you come from. Take reasonable precautions and be aware of subtle forces around you.",
+    "Sorcerer's Violet Reversed. We need to protect ourselves from harm by laying low and paying attention or we really need to reflect on the harder lessons of the past before making our next move. Lessons of past loves might apply to the current situation.",
+    "Sunflower. Beneficial omen indicating a time of joy, good cheer, health, wealth and success. The beautiful, balanced growth of the spiral symbolizes nature aligning with the infinite.",
+    "Sunflower Reversed. Your good cheer is not gone, but covered by clouds. What will make you shine? Sometimes you just have to wait and let the clouds pass. At other times, you might have to take action, looking to see how either low self-esteem or arrogance might be blocking your happiness. Unhealed aspects of relationships with the father.",
+    "Botanical Medicine Reading 3: ...",
     "Botanical Medicine Reading 1: ...",
+    "Botanical Medicine Reading 2: ...",
     "Botanical Medicine Reading 2: ...",
     "Botanical Medicine Reading 3: ...",
     "Botanical Medicine Reading 1: ...",
     "Botanical Medicine Reading 2: ...",
-    "Botanical Medicine Reading 3: ...",
-    "Botanical Medicine Reading 1: ...",
     "Botanical Medicine Reading 2: ...",
     "Botanical Medicine Reading 3: ...",
     "Botanical Medicine Reading 1: ...",
     "Botanical Medicine Reading 2: ...",
-    "Botanical Medicine Reading 3: ...",
-    "Botanical Medicine Reading 1: ...",
-    "Botanical Medicine Reading 2: ...",
-    "Botanical Medicine Reading 3: ...",
     "Botanical Medicine Reading 66: ..."
 ]
 
@@ -179,6 +225,8 @@ Character 2:
 
 Describe the characters. Please provide three possible interpersonal events that could occur between these characters, each propelling the story forward. The events should be interpreted by each character differently because of their divergent traumas.
     """
+    
+    print(prompt)
 
     # Generate and return the response
     response = llm.invoke(prompt)
