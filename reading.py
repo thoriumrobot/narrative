@@ -229,7 +229,7 @@ Character 1:
 Character 2:
 {char2_str}
 
-Describe the characters. Please provide three possible interpersonal events that could occur between these characters, each propelling the story forward. The events should be interpreted by each character differently because of their divergent traumas.
+Describe the characters. Please provide three possible interpersonal events that could occur between these characters, each propelling the story forward. The events should be interpreted by each character differently because of their divergent traumas. Avoid therapy settings.
     """
     
     print(prompt)
