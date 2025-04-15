@@ -277,7 +277,7 @@ def generate_divination():
         thoth = thoth_readings[thoth_indices[i]]
         readings[effect] = {
             "Wound": wound,
-            "Medicine": medicine
+            "Medicine": medicine,
             "Context": thoth
         }
     return readings
