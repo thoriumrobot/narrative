@@ -163,6 +163,88 @@ botanical_readings = [
     "Garden Reversed. What isn't clearly planted in your life? What has been uprooted? What is unbalanced? Which powers misaligned? Replant your garden."
 ]
 
+thoth_readings = [
+    "Fool. Movement, Energy, Innocence, Potential.",
+    "Magus. Willpower, Activity, Impulse, Self-direction, Manifestation.",
+    "Priestess. Internal change, Connecting with inner self, Seeing beyond illusion.",
+    "Empress. Fertility, Life, Vitality, Connection with nature, Connection with the Universal Spirit.",
+    "Emperor. Control, Order and organization, Discipline, Power, Rational thought, Will over nature.",
+    "Hierophant. Rules, Regulations, Traditions, Education, Spiritual teacher.",
+    "Lovers. Choices, Commitment, Harmony, Devotion, Being with another.",
+    "Chariot. Success. Victory over past obstructions, Movement towards goals, Conquering.",
+    "Lust. Vitality, Passion, Lust for life, Harmony with animalistic nature, Intensity.",
+    "Hermit. Retreat, Self-reflection, Hidden wisdom, Insight, Soul-searching.",
+    "Fortune. Cycles, Constant change, Fate, Acceptance, Movement with change.",
+    "Adjustment. Objectivity, Honesty, Fairness, Knowledge, Clarity, Karma.",
+    "Hanged Man. Patience, Waiting, Stillness, Change in perspective, Pause.",
+    "Death. Death and rebirth, Beginnings and endings, Transformation, End of Cycle, Darkest fears.",
+    "Art. Alchemy, Fusion, To combine and create.",
+    "Devil. Independence, Spiritual freedom, Shadow self.",
+    "Tower. Broken structures, Breaking foundations, Reckoning, Destruction, Loss of serenity.",
+    "Star. Hope, Trust, Faith, Optimism, Inspiration, Following dreams.",
+    "Moon. Feeling lost, Loss of clarity, Deception, Secrets, Hidden Truths.",
+    "Sun. Abundance, Success, Generosity, Illumination, Truth.",
+    "Aeon. Awakening, Rebirth, Renewal, Liberation, Revelation.",
+    "Universe. Completion, Resolution, Mastery, Fulfillment, Accomplishment, End of journey.",
+    "Ace of Wands. Will to create, Inspiration, Enthusiasm, Potential of creation.",
+    "II of Wands: Dominion. Planning, Direction, Progress, Discovery, Expansion.",
+    "III of Wands: Virtue. Constructive use of energy, Openness, Honesty.",
+    "IV of Wands: Completion. Phase completed, Satisfaction, Stability.",
+    "V of Wands: Strife. Personality clash, Competition, Inner conflict.",
+    "VI of Wands: Victory. Victory of conflict, Public recognition, Confidence for other endeavors.",
+    "VII of Wands: Valor. Bravery in adversity, Standing ground, Fighting for beliefs.",
+    "VIII of Wands: Swiftness. Sudden movement, Progress, Rapid completion, Going with the flow.",
+    "IX of Wands: Strength. Endurance, New trust in self, Determination, Discipline, Overcoming obstancles.",
+    "X of Wands: Oppression. Blockages, Suppression, Frustration, Lost faith.",
+    "Princess of Wands. Courage, Excitement, Free spirit, Love of life.",
+    "Prince of Wands. Speed, Activity, Impulsiveness, Generosity.",
+    "Queen of Wands. Trandformation, Independence, Honor, Passion.",
+    "Knight of Wands. Inspiration, Power, Will, Expansion.",
+    "Ace of Chalices. Unconditional love, New feelings, New friendship or relationship, Camaraderie.",
+    "II of Chalices: Love. Close friendships and partnerships, Working in unity, Equality, Balance.",
+    "III of Chalices: Abundance. Happiness in groups, Joyful social life, Sharing happiness with friends, Pleasure.",
+    "IV of Chalices: Luxury. Familiarity, Boredom, Lack of motivation, Taking life for granted, Lack of risk.",
+    "V of Chalices: Disappointment. Disappointment, Suffering, Pain, Grief, Self-pity, Disillusionment, Fear of risk.",
+    "VI of Chalices: Pleasure. Healing, Rtion, Pleasure after hardship, Moving away from old wounds.",
+    "VII of Chalices: Debauchery. Intoxication, Indulgence, Addictive emotions, Loss of control, Escapism.",
+    "VIII of Chalices: Indolence. Lack of center, Numbness, Feeling dissatisfied, No lasting value, Wandering without cause.",
+    "IX of Chalices: Happiness. Luck, Wishes fulfilled, Optimism, Trust in the universe, Compassion.",
+    "X of Chalices: Satiety. Contentment, Emotional satisfaction, Gratitude, Feeling blessed, Generosity.",
+    "Princess of Chalices. Fantasy, Self-exploration, Intuition, Kindness.",
+    "Prince of Chalices. Outer serenity, Secrets, Volatility, Turbulence.",
+    "Queen of Chalices. Imagination, Sensitivity, Depth, Emotional maturity.",
+    "Knight of Chalices. Grace, Compassion, Vanity, Moodiness.",
+    "Ace of Swords. Insight, Clarity, Breakthrough, Cutting to the heart of the matter, Sudden inspiration.",
+    "II of Swords: Peace. Compromise, Equal and opposite forces, Balanced mind and heart, Stalling, Passivity.",
+    "III of Swords: Sorrow. Pain, Suffering, Bitter truths, Separation, Breaking illusions.",
+    "IV of Swords: Truce. Reflection, Temporary rest, Recharging, Recovery, Avoiding stress.",
+    "V of Swords: Defeat. Fear, Negativity, Self-sabotage, Realizing limitations, Fear of failure.",
+    "VI of Swords: Science. Research, Search for truth, Deeper thinking, Trial and error, Problem solving.",
+    "VII of Swords: Futility. Doubts, Low self-esteem, Feeling helpless, Feeling exhausted, Loss of focus.",
+    "VIII of Swords: Interference. Restless mind, Over-analysis, Uncontrolled thoughts, Fruitless thinking.",
+    "IX of Swords: Cruelty. Aggression, Lack of compassion, Inflicting pain, Shame, Guilt.",
+    "X of Swords: Ruin. Hopelessness, Ruin, Loss, Destruction, Catastrophe.",
+    "Princess of Swords. Harsh words, Aggression, Bluntness, Manifestation.",
+    "Prince of Swords. Idealism, Overactive mind, Mastery of words, Scattered energy.",
+    "Queen of Swords. Wisdom, Open-mindedness, Perception, Fairness.",
+    "Knight of Swords. Science, Intellect, Logic, Theory.",
+    "Ace of Disks. Opportunity, Financial luck, Potential for abundance, Spirit connected to matter.",
+    "II of Disks: Change. Flexibility, Adaptation, Trusting the process, Constant flux and change.",
+    "III of Disks: Work. Achievement at work, Concentrated effort, Ambition, Work-life imbalance.",
+    "IV of Disks: Power. Material security, Solid foundations, Stability, Wise investments, Conservatism.",
+    "V of Disks: Worry. Material or physical challenges, Hard times, Threat to security.",
+    "VI of Disks: Success. Generosity, Understanding true value of things.",
+    "VII of Disks: Failure. Material loss, Crushed hope, False success, Failed investments.",
+    "VIII of Disks: Prudence. Patience, Waiting for your chance, Considering details, Being careful, Hard work.",
+    "IX of Disks: Gain. Wealth, Material comfort, General contentedness.",
+    "X of Disks: Wealth. Security, Riches, Applying resources in meaningful ways.",
+    "Princess of Disks. Reliability, Achievement, Hard work, Endurance.",
+    "Prince of Disks. Determination, Planned action, Inventiveness, Stubbornness.",
+    "Queen of Disks. Stability, Sensuality, Kindness, Practicality.",
+    "Knight of Disks. Patience, Diligence, Focus, Instinct."
+]
+
+
 # 2. The 8 effects of trauma
 effects = [
     "1. Sensitivity",
@@ -185,14 +267,18 @@ def generate_divination():
     wound_indices = random.sample(range(len(alice_readings)), len(effects))
     # Select 8 unique indices from the Botanical readings
     medicine_indices = random.sample(range(len(botanical_readings)), len(effects))
+    # Select 8 unique indices from the Thoth readings
+    thoth_indices = random.sample(range(len(thoth_readings)), len(effects))
 
     readings = {}
     for i, effect in enumerate(effects):
         wound = alice_readings[wound_indices[i]]
         medicine = botanical_readings[medicine_indices[i]]
+        thoth = thoth_readings[thoth_indices[i]]
         readings[effect] = {
             "Wound": wound,
             "Medicine": medicine
+            "Context": thoth
         }
     return readings
 
@@ -203,7 +289,7 @@ def reading_to_string(reading):
     """
     lines = []
     for effect, cards in reading.items():
-        lines.append(f"{effect}\n  Wound: {cards['Wound']}\n  Medicine: {cards['Medicine']}\n")
+        lines.append(f"{effect}\n  Wound: {cards['Wound']}\n  Medicine: {cards['Medicine']}\n  Context: {cards['Context']}\n")
     return "\n".join(lines)
 
 # 3. The function to generate interpersonal events from an offline LLM
